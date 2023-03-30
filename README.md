@@ -6,3 +6,5 @@ Linguagem de Programação;
  * Limguagem C .
 
 Programação Orientada a Objeto;
+
+Limguagem Java ou C++
