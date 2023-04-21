@@ -3,8 +3,8 @@ Analise e Desenvolvimento de sistemas :
 
 Linguagem de Programação;
 
- * Limguagem C .
+ * Linguagem C .
 
 Programação Orientada a Objeto;
 
- * Limguagem Java | C++ | C#
+ * Linguagem Java .
