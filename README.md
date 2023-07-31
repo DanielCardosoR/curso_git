@@ -3,8 +3,8 @@ Analise e Desenvolvimento de sistemas :
 
 Linguagem de Programação;
 
- * Linguagem C .
+-> C
 
 Programação Orientada a Objeto;
 
- * Linguagem Java .
+-> Java .
